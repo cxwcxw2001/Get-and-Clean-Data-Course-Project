@@ -1,5 +1,6 @@
 Subject    30  
 	The person who performed the activity. It takes value from 1-30, each referring to a distinct person.
+	
 Activity   6
 	The activity name the experiment subject performs. 
 tBodyAcc-mean()-X
